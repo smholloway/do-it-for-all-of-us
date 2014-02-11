@@ -6,12 +6,12 @@ all of us.
 ## How can I get in on this?
 Participating is easy with our patented 4 step process:
 
- * [star the
-   repo](https://github.com/smholloway/do-it-for-all-of-us/star)
+ * star the
+   repo
  * [add your name to the end of the
    README](https://github.com/smholloway/do-it-for-all-of-us/edit/master/README.md)
  * open a [pull
-   request](https://github.com/smholloway/do-it-for-all-of-us/pull), and
+   request](https://github.com/smholloway/do-it-for-all-of-us/pulls), and
 I will accept it
  * profit
 
