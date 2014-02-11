@@ -1,7 +1,7 @@
 # Do it For All of Us
 
-Let's make the most starred repo. Do it for me. Do it for you. Do it for
-all of us.
+Let's make the most starred repo. Do it for me. Do it for you. [Do it for
+all of us](http://doitforallof.us/).
 
 ## How can I get in on this?
 Participating is easy with our simple 4 step process:
