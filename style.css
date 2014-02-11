@@ -1,0 +1,48 @@
+body {
+  font-size: 24px;
+  line-height: 174%;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+}
+a, a.hover, a.active, a.focus {
+  color: #428BCA;
+  text-decoration: none;
+}
+.container {
+  width: 666px;
+  margin: 24px auto;
+}
+.shoulders span:nth-child(n) {
+  color: #428BCA;
+}
+.shoulders span:nth-child(2n) {
+  color: #336D9B;
+}
+.shoulders span:nth-child(3n) {
+  color: #316897;
+}
+.shoulders span:nth-child(4n) {
+  color: #84AED3;
+}
+.shoulders span:nth-child(5n) {
+  color: ##2675B4;
+}
+.shoulders {
+  font-family: 'Lobster', cursive;
+  font-size: 28px;
+}
+.seeing-stars {
+  font-size: 300px;
+  line-height: 333px;
+  text-align: center;
+  color: gold;
+  background-color: #428BCA;
+  border-radius: 8px;
+  width: 360px;
+  margin: 0 auto;
+}
+.toes {
+  font-variant: small-caps;
+  font-size: 12px;
+  color: #666;
+}
