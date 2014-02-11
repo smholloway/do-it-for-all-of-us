@@ -22,4 +22,5 @@ Thanks!
 
 ## Collaborators
 Seth Holloway
+Chad Schellenger
 
