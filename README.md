@@ -27,3 +27,4 @@ Dave DeAngelis
 Thomas Darr
 Drew Shafer
 Evan Grim
+Tyler Reinhart
